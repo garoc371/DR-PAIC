@@ -42,7 +42,7 @@ The study tests robustness to dependency structure misspecification by generatin
 This creates fundamentally different dependency structures between the two populations to test how doubly robust estimators handle violations of population homogeneity assumptions.
 
 ### Simulation Conditions
-- **Sample sizes**: 200, 600 patients per trial are used for the main analysis.
+- **Sample sizes**: 100, 200, 600 patients per trial are used for the main analysis.
 - **ESS reduction levels**:
   - Moderate (~50% effective sample size reduction)
   - Severe (~82% effective sample size reduction)

@@ -1,0 +1,18 @@
+.DS_Store
+
+# R
+.Rhistory
+.
+.Rproj.user/
+
+# R packages
+*.tar.gz
+*.tgz
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
